@@ -67,22 +67,5 @@ public class IntTreeNode {
 			getLeft().fillTree(cnt-1);
 			getRight().fillTree(cnt-1);
 		}
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }
